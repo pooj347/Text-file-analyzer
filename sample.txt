@@ -1,0 +1,3 @@
+Text File Analyzer is a Python project.
+It can analyze words, characters, lines, and special characters.
+Python makes text processing simple and useful.
