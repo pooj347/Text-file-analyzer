@@ -60,6 +60,20 @@ Place a `.txt` file in the project directory and select the required option from
 
 > The Text to Voice feature requires an internet connection because it uses gTTS.
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.jpeg)
+
+### File Details
+![File Details](screenshots/file-details.jpeg)
+
+### String Search
+![String Search](screenshots/search-a-string.jpeg)
+
+### Text to Voice
+![Text to Voice](screenshots/text-to-speech.jpeg)
+
 ## Learning Outcomes
 
 This project demonstrates practical use of Python file handling, strings, collections, operating-system utilities, text analysis, and text-to-speech functionality.
